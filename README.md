@@ -6,7 +6,8 @@
 💼 Python, Pandas, NumPy, SciPy, Matplotlib, Plotly, Seaborn, PostgreSQL, Tableau
 
 Contact me:
-https://telegram.org/dl/Valentinacoach
+https://t.me/Valentinacoach
+
 
 
 <!---
