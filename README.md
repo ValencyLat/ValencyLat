@@ -7,13 +7,19 @@
 
 💼 Python, Pandas, NumPy, SciPy, Matplotlib, Plotly, Seaborn, PostgreSQL, Tableau
 
-Contact me:
-https://t.me/Valentinacoach
 
-
+<div id="socials" align="center"> 
+  </a>
+   <a href="https://t.me/Valentinacoach">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</div>
 
 
 <!---
 ValencyLat/ValencyLat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
