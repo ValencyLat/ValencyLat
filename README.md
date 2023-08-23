@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Valentina Latysheva or @ValencyLat. 
 - 👀 I’m Data Analist from Perm.
-- 🌱 👩‍🎓 I have an technical higher education. 
+- 🌱 👩‍🎓 I have an technical higher education.
+   
 👀 After advanced training with several courses I'm looking
  for an interesting work with data analysis to applying my knowledge and skills.
+
 💼 Python, Pandas, NumPy, SciPy, Matplotlib, Plotly, Seaborn, PostgreSQL, Tableau
 
 Contact me:
