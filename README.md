@@ -5,6 +5,8 @@
  for an interesting work with data analysis to applying my knowledge and skills.
 💼 Python, Pandas, NumPy, SciPy, Matplotlib, Plotly, Seaborn, PostgreSQL, Tableau
 
+Contact me Telegram:
+@Valentinacoach
 
 <!---
 ValencyLat/ValencyLat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
